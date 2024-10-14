@@ -1,0 +1,33 @@
+{
+  "mockTokens": {
+    "mockDAI": "0x3C5AC79e093a85596ba16496D545fd412a68e962"
+  },
+  "contracts": {
+    "AddressMap": "0xEB01c0Edc003eE05B1Fd84d715a1a402B01B5c72",
+    "Factory": "0x4424BbB8c01Dea946C238ddC93167E0E20458c0a",
+    "Lending": "0xB55100b8b4A950c13d91f967523eA11aB6A1dE7B",
+    "CollateralManager": "0xEA324718324c4Cc0a67298e8Cd994d508825fBEc",
+    "Staking": "0x5BAAfB4005EC9fa291D6307162E85256827655bB",
+    "PriceOracle": "0xc2edAe329beb71E5Bd29Ce8301cF2F3d9444Ac3D",
+    "CollateralOracle": "0x9AC8475257871a6dF661028eb0423A4735a42d53",
+    "DexManager": "0x4EE2502c8adb29877B31ca59AA1080D02b4A2A2A",
+    "SpyPriceAggregator": "0x0E6d7Caf91F2F7EF0FB8ca5Fe47720E7770602F3",
+    "DaiPriceAggregator": "0xCb2FEB4438fba69d12856a5f9b77b08BF888C273",
+    "RewardDistributor": "0x9f75B8e6bFbDe6A71231D9b5A569557fD10d9D85"
+  },
+  "library": {
+    "Decimal": "0xB0684Ee0BF1991AFF5Ba2af90aF2b4b6909cF3fb",
+    "MathUtils": "0x413cbe1928B063A02065f71E3187972537f21514",
+    "PositionLogic": "0x9BdC5276f38c12AD48120eBFf1Fc75e415589F6a"
+  },
+  "tokens": {
+    "DefiraliaT": "0x498313694379652CaF619448ae8dD0f7D229b89c",
+    "zSPY": "0xa7483f59c660258A40cd9983CB2279B805745DFD"
+  },
+  "vesting": {
+    "VestingForPreSeed": "0x523678FA62DD427FC48C7c4Fb2817a2d4F703645",
+    "VestingForSeed1": "0x375D1df94F2540F5A9B49e32C290571Ba1430C7E",
+    "VestingForSeed2": "0x8C2C183253FFe3af0198c46A8B63E59a3af62DE0",
+    "VestingWalletForTeam": "0xd7d3bB3a346A8117732cF870f33DDf53A787075c"
+  }
+}

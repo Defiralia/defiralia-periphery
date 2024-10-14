@@ -1,0 +1,48 @@
+{
+  "mockTokens": {
+    "mockDAI": "0x498313694379652CaF619448ae8dD0f7D229b89c",
+    "mockDefiraliaT": "0x523678FA62DD427FC48C7c4Fb2817a2d4F703645",
+    "mockzSPY": "0x431321488Ca1706E16552A7004754f0C77C8f6E5"
+  },
+  "contracts": {
+    "Multicall": "0xcA11bde05977b3631167028862bE2a173976CA11",
+    "Lending": "0xA2c302FeCc250CA538D16d19cbFee51254c4b6a3",
+    "CollateralManager": "0xe9798161d09fF4b196019512C56bC955Dc9daE00",
+    "Factory": "0x27314Bd82E27f97dDDC37702cf0C5EfF1a57395F",
+    "Staking": "0x06E6c847B9c53970AAE14d60b500af609517dA47",
+    "Collector": "0x9b049ACB811eCF59B8Bf59e7eC1dA185f9fb14B0",
+    "PriceOracle": "0x3214e0f39e0a44D5863Bc4F5CD6Bd10ecCB2e166",
+    "CollateralOracle": "0x3bd5Fb04A6A9Ac8Faf93c647FF100516779f3348",
+    "DexManager": "0x87372549D16DDCaB74ad893b8dfad4347CF05155",
+    "DefiraliatPriceAggregator": "0x6AA885B1Ab2F53315A4085132888a4D98C99089a",
+    "SpyPriceAggregator": "0xd5989B8317b424CdC52DC92083fBDC8643CDEa72",
+    "DaiPriceAggregator": "0x50eEC600F253B9b18db8A28588CaC08cE29d83aE",
+    "AddressMap": "0xB49b227cB200116407974CaCF53Fb2b0b0a11c73",
+    "RewardDistributor": "0x9fD0644cc97bA4D3A27E5F6ad8d26946f5c95b8d"
+  },
+  "library": {
+    "Decimal": "0x1e7f0165a8AD602227A172864D97A93f2A51b233",
+    "MathUtils": "0x423029efF19b30701C1D34b29aeC19A2F6050BD5",
+    "PositionLogic": "0x38a5EB72244Af11Be87FE6cf9630b4F3A00E3ee9"
+  },
+  "testContracts": {
+    "DexManagerTest": "0xB8C97e04B5509121862b338B13fD92b4abDf17d0"
+  },
+  "tokens": {
+    "DefiraliaT": "0xFC75697F112673CF5e09FB0E46C76aC77712b9d5",
+    "zSPY": "0xc51F11B17e4D19C61E8317498bd15429F8e88e80"
+  },
+  "vesting": {
+    "VestingForPreSeed": "0xa5e7658b343d9A252D18Ba7F94D3808Ee07Eb209",
+    "VestingForSeed1": "0x711D4602Fe9815f351Fb4EBc75c1A36F944429F3",
+    "VestingForSeed2": "0xa985ed11e5148b72fB53e581746baB1b466A0c52",
+    "VestingWalletForTeam": "0x0b0A781Cd31209D8EBd22c6DCf490872c76cf107"
+  },
+  "campaign": {
+    "DefiraliaDai": "0x71c7c644fA04f3d78E5b6c471DC3dE2235671C6c",
+    "CompetitionVault": "0xe9C185699f07534ecEcA49F19b6f6d017e7c3cD8"
+  },
+  "oraclePrice": {
+    "SPY": "46045000500"
+  }
+}
